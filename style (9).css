@@ -1,0 +1,171 @@
+.about_main_div {
+    border: 1px;
+    border-style: solid;
+    border-color: darkgray;
+    float: none;
+}
+
+.about_main_div img {
+    width: 100%;
+}
+
+.about_main_div h5, .about_main_div p {
+    margin-left: 20px;
+}
+
+#myNavbar li {
+    font-size: 30px;
+    margin-left: 20px;
+    font-family: 'Russo One', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-family: 'Alata', sans-serif;
+}
+
+p {
+     font-family: 'Alata', sans-serif;
+    line-height: 25px;
+}
+
+#marquee marquee {
+    object-position: bottom;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.new_head {
+    font-size: 20px;
+    padding: 6px, 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    display: inline-block;
+}
+
+.new_head i {
+    margin-right: 5px;
+    float: right;
+}
+
+.new_text p {
+    font-size: 18px;
+    font-family: 'Grandstander', cursive;
+}
+
+.achievements_li img {
+    height: 200px;
+    width: 250px;
+}
+
+.achievements_li p {
+    padding-top: 60px;
+    font-size: 20px;
+}
+
+.achievements_li {
+    margin-bottom: 20px;
+}
+
+#prestigious_img {
+    height:300px;
+    width: 250px;
+}
+
+#shiksha_img {
+    height: 300px;
+    width: 250px;
+}
+
+.achievements_li h4 {
+    font-family: 'Russo One', sans-serif;
+}
+
+#achievement_3 {
+    font-size: 20px;
+    font-family: 'Russo One', sans-serif;
+    margin-bottom: 70px;
+}
+
+#achievement_3 p {
+    padding-top: 60px;
+}
+
+.campus_main_div {
+    margin-bottom: 100px;
+}
+
+.kohli {
+    cursor: pointer;
+}
+
+.gates {
+    cursor: pointer;
+}
+
+.dhoni {
+    cursor: pointer;
+}
+
+.bezoz {
+    cursor: pointer;
+}
+
+.kohli hr {
+    margin-bottom: 10px;
+}
+
+.bezoz {
+    cursor: pointer;
+}
+
+.bezoz hr {
+    margin-bottom: 10px;
+}
+
+.bezoz img {
+    height: 320px;
+    height: 270px;
+    border-radius: 30px;
+}
+
+.dhoni img {
+    height: 320px;
+    height: 270px;
+}
+
+.gates img {
+    height: 320px;
+    height: 270px;
+    border-radius: 30px;
+}
+
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.map {
+    margin-top: 50px;
+    margin-left: 200px;
+    border-style: solid;
+    border-radius: 30px;
+}
